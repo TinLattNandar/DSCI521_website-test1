@@ -1,20 +1,16 @@
 ---
 title: "About"
 ---
-
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I'm Tin Latt Nandar (Anna) studying Master of Data Science at University of British Columbia. I'm now currently based in Vancouver, Canada. 
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+University of British Columbia, Vancouver | Vancouver, Canada
+Master in Data Science | Aug 2024 - June 2025
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Staffany Pte Ltd | Data Analyst | December 2021 - July 2024
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Sociovestix Lab | Data Scout | January 2022 - August 2024
